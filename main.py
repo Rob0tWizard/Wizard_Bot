@@ -2,7 +2,7 @@ import telebot
 import webbrowser
 from telebot import types
 
-bot = telebot.TeleBot('6530655301:AAHdo66b3W9rBtKKIOmE45Vv3aG5V8t4zwM')
+bot = telebot.TeleBot('6530655301:********')
 
 name = ''
 age = 0
